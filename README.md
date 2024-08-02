@@ -1,4 +1,4 @@
-## Hi there 👋
+I am a .NET developer with over 5 years of experience working at AIUT. My expertise lies in developing, implementing and supporting software solutions across various formats. This includes building communication interfaces with other devices using diverse protocols, as well as automating complex processes. I’m passionate about crafting efficient and reliable code to drive innovation and streamline operations.
 
 <!--
 **oleksandr-kostian/oleksandr-kostian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#demo
 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleksandr-kostian&layout=compact&exclude_repo=Lab2_Messenger,Maven_Lab1_Tasks,Lab3_BookShop,Lab4_BookShop)
